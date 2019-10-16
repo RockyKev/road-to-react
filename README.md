@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## This is following the Road to React book.
+https://github.com/the-road-to-learn-react/the-road-to-learn-react
+
+
 ## Available Scripts
 
 In the project directory, you can run:
